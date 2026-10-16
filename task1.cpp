@@ -1,1 +1,3 @@
-void task1() {}
+
+void executeTaskOne() {
+}
